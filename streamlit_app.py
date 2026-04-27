@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-df = pd.read_csv("data/cleaned/cme_cleaned.csv")
+df = pd.read_csv("cme_cleaned.csv")
 
 st.title("Child Mortality Analysis Dashboard")
 st.markdown(
