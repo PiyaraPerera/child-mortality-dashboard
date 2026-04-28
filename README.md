@@ -50,5 +50,5 @@ It also includes:
 1. Clone or download this repository  
 2. Install the required libraries:
 
-```bash
-pip install -r requirements.txt
+## STream lit app link
+https://child-mortality-dashboard-ym4eczpstpswbdrahs7kbk.streamlit.app/
